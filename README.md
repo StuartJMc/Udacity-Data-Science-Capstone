@@ -1,6 +1,10 @@
 # Udacity-Data-Science-Capstone
 
+### Overview
 
+Convolutional neural networks (CNNs) have been used for image recognition since the 80s. With the rapid increase in processing power, they now offer a great solution for an task requiring visual identification.
+
+This project will attempt to use CNNs to identify dog breeds from unseen images. The aim will be to produce a function for users to feed in images and return a predicted dog breed, including methods to handle the inclusion of human faces.
 
 ### Contents
 
